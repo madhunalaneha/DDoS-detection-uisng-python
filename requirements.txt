@@ -26,7 +26,7 @@ pyshark
 
 python-dateutil==2.6.1
 pytz==2017.3
-requests==2.18.4
+requests==2.20.0
 scikit-learn==0.19.1
 scikit-neuralnetwork==0.7
 scipy==1.0.0
