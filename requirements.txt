@@ -13,7 +13,7 @@ lxml
 matplotlib
 netifaces
 
-numpy==1.14.0
+numpy==1.22.0
 
 pandas
 
